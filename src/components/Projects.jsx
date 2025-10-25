@@ -28,7 +28,7 @@ const Projects = () => {
       image: "https://images.pexels.com/photos/34442195/pexels-photo-34442195.jpeg",
       tags: ["Game", "Sword", "Fantasy"],
       category: "3D Model",
-      links: { demo: "https://www.artstation.com/artwork/BkKWRk", github: "https://www.artstation.com/artwork/BkKWRk" }
+      links: { demo: "https://www.artstation.com/artwork/wrYrEw", github: "https://www.artstation.com/artwork/wrYrEw" }
     },
     {
       title: "Guitar",
@@ -44,7 +44,7 @@ const Projects = () => {
       image: "https://images.pexels.com/photos/34442319/pexels-photo-34442319.jpeg",
       tags: ["Gun", "Apocalipse", "Fiction"],
       category: "3D Model",
-      links: { demo: "https://www.artstation.com/artwork/wrYrEw", github: "https://www.artstation.com/artwork/wrYrEw" }
+      links: { demo: "https://www.artstation.com/artwork/Jr6gDz", github: "https://www.artstation.com/artwork/Jr6gDz" }
     },
     {
       title: "R2-D2",
