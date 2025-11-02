@@ -156,7 +156,7 @@ const About = () => {
         {/* Call to Action */}
         <div className="text-center mt-20">
           <a 
-            href="https://www.linkedin.com/in/agustín-galeano-81716322a"
+            href="https://www.linkedin.com/in/agustin-david-galeano-81716322a"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-orange-500/10 to-transparent rounded-full border border-orange-500/30 hover:border-orange-500/50 transition-all duration-300 group cursor-pointer"
