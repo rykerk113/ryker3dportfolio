@@ -38,7 +38,7 @@ const Header = () => {
           <div className="flex items-center group cursor-pointer" onClick={() => scrollToSection('home')}>
             <div className="relative">
               <div className="text-3xl font-black text-white group-hover:text-orange-500 transition-all duration-500">
-                RYKER
+                AGUSTIN GALEANO
               </div>
               <Sparkles className="absolute -top-1 -right-1 w-4 h-4 text-orange-500 animate-pulse group-hover:animate-spin" />
             </div>
